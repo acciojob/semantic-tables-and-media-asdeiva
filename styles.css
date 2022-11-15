@@ -1,2 +1,16 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th{
+    background-color:yellow;
+    border: 1px solid;
+}
+td,tr{
+    background-color: aliceblue;
+    border: 1px solid ;
+    text-align: center;
+}
+
 
 /* Your CSS Code here. */
